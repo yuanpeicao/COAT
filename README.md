@@ -4,7 +4,7 @@ In this repo, we address the problem of covariance estimation for high-dimension
 
 Reference:
 
-Cao, Y., Lin, W. and Li, H. (2018). Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding,
+Cao, Y., Lin, W. and Li, H. (2019). Large Covariance Estimation for Compositional Data via Composition-Adjusted Thresholding,
 JASA (Journal of the American Statistical Association).
 
 Please see https://www.tandfonline.com/doi/abs/10.1080/01621459.2018.1442340 and http://www.math.pku.edu.cn/teachers/linw/papers/cao_lin_li.pdf
